@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" >
   <Document>
     <name>Local Health Districts</name>
     <description/>
     <Style id="poly-000000-1000-66-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -20,6 +21,7 @@
     <Style id="poly-000000-1000-66-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -44,6 +46,7 @@
     <Style id="poly-000000-1000-77-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -58,6 +61,7 @@
     <Style id="poly-000000-1000-77-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -82,6 +86,7 @@
     <Style id="poly-0288D1-1000-66-nodesc-normal">
       <LineStyle>
         <color>ffd18802</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -96,6 +101,7 @@
     <Style id="poly-0288D1-1000-66-nodesc-highlight">
       <LineStyle>
         <color>ffd18802</color>
+		<gx:physicalWidth>50</gx:physicalWidth>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
