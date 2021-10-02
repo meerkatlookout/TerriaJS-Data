@@ -9,7 +9,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>42000000</color>
+        <color>10000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -20,10 +20,10 @@
     <Style id="poly-000000-1000-66-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>42000000</color>
+        <color>10000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -47,7 +47,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>10000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -58,10 +58,10 @@
     <Style id="poly-000000-1000-77-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>10000000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -85,7 +85,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>42d18802</color>
+        <color>10d18802</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -96,10 +96,10 @@
     <Style id="poly-0288D1-1000-66-nodesc-highlight">
       <LineStyle>
         <color>ffd18802</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>42d18802</color>
+        <color>10d18802</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -119,7 +119,7 @@
     </StyleMap>
     <Style id="poly-0288D1-1000-82-nodesc-normal">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>10d18802</color>
         <width>50</width>
       </LineStyle>
       <PolyStyle>
@@ -134,10 +134,10 @@
     <Style id="poly-0288D1-1000-82-nodesc-highlight">
       <LineStyle>
         <color>ffd18802</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>52d18802</color>
+        <color>10d18802</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -161,7 +161,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4f387109</color>
+        <color>10387109</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -172,10 +172,10 @@
     <Style id="poly-097138-1000-79-nodesc-highlight">
       <LineStyle>
         <color>ff387109</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4f387109</color>
+        <color>10387109</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -199,7 +199,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d589d0f</color>
+        <color>10589d0f</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -210,10 +210,10 @@
     <Style id="poly-0F9D58-1000-77-nodesc-highlight">
       <LineStyle>
         <color>ff589d0f</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d589d0f</color>
+        <color>10589d0f</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -237,7 +237,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4aab4939</color>
+        <color>10ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -248,10 +248,10 @@
     <Style id="poly-3949AB-1000-74-nodesc-highlight">
       <LineStyle>
         <color>ffab4939</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4aab4939</color>
+        <color>10ab4939</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -275,7 +275,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d4f0e88</color>
+        <color>104f0e88</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -286,10 +286,10 @@
     <Style id="poly-880E4F-1000-77-nodesc-highlight">
       <LineStyle>
         <color>ff4f0e88</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d4f0e88</color>
+        <color>104f0e88</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -313,7 +313,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>544f0e88</color>
+        <color>104f0e88</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -324,10 +324,10 @@
     <Style id="poly-880E4F-1000-84-nodesc-highlight">
       <LineStyle>
         <color>ff4f0e88</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>544f0e88</color>
+        <color>104f0e88</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -351,7 +351,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>365b18c2</color>
+        <color>105b18c2</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -362,10 +362,10 @@
     <Style id="poly-C2185B-1000-54-nodesc-highlight">
       <LineStyle>
         <color>ff5b18c2</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>365b18c2</color>
+        <color>105b18c2</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -389,7 +389,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4225a8f9</color>
+        <color>1025a8f9</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -400,10 +400,10 @@
     <Style id="poly-F9A825-1000-66-nodesc-highlight">
       <LineStyle>
         <color>ff25a8f9</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4225a8f9</color>
+        <color>1025a8f9</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -427,7 +427,7 @@
         <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4a00d6ff</color>
+        <color>1000d6ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -438,10 +438,10 @@
     <Style id="poly-FFD600-1000-74-nodesc-highlight">
       <LineStyle>
         <color>ff00d6ff</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
-        <color>4a00d6ff</color>
+        <color>1000d6ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -465,7 +465,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d00d6ff</color>
+        <color>1000d6ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -514,7 +514,7 @@
     <Style id="poly-FFEA00-1000-69-nodesc-highlight">
       <LineStyle>
         <color>ff00eaff</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
         <color>4500eaff</color>
@@ -552,7 +552,7 @@
     <Style id="poly-FFEA00-1000-79-nodesc-highlight">
       <LineStyle>
         <color>ff00eaff</color>
-        <width>1.5</width>
+        <width>50</width>
       </LineStyle>
       <PolyStyle>
         <color>4f00eaff</color>
