@@ -3,13 +3,13 @@
   <Document>
     <name>Untitled map</name>
     <description/>
-    <Style id="poly-FFD600-1101-59-nodesc-normal">
+    <Style id="poly-9C27B0-1101-209-nodesc-normal">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ffb0279c</color>
         <width>1.101</width>
       </LineStyle>
       <PolyStyle>
-        <color>3b00d6ff</color>
+        <color>d1b0279c</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -17,13 +17,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-FFD600-1101-59-nodesc-highlight">
+    <Style id="poly-9C27B0-1101-209-nodesc-highlight">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ffb0279c</color>
         <width>1.6515</width>
       </LineStyle>
       <PolyStyle>
-        <color>3b00d6ff</color>
+        <color>d1b0279c</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -31,23 +31,23 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-FFD600-1101-59-nodesc">
+    <StyleMap id="poly-9C27B0-1101-209-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FFD600-1101-59-nodesc-normal</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FFD600-1101-59-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-FFD600-1201-61-nodesc-normal">
+    <Style id="poly-FFD600-1201-10-nodesc-normal">
       <LineStyle>
         <color>ff00d6ff</color>
         <width>1.201</width>
       </LineStyle>
       <PolyStyle>
-        <color>3d00d6ff</color>
+        <color>0a00d6ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -55,13 +55,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-FFD600-1201-61-nodesc-highlight">
+    <Style id="poly-FFD600-1201-10-nodesc-highlight">
       <LineStyle>
         <color>ff00d6ff</color>
         <width>1.8015</width>
       </LineStyle>
       <PolyStyle>
-        <color>3d00d6ff</color>
+        <color>0a00d6ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -69,21 +69,21 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-FFD600-1201-61-nodesc">
+    <StyleMap id="poly-FFD600-1201-10-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FFD600-1201-61-nodesc-normal</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FFD600-1201-61-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
       <name>Metropolitan local health districts</name>
       <Placemark>
         <name>Central Coast</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -4806,7 +4806,7 @@
       </Placemark>
       <Placemark>
         <name>Illawarra Shoalhaven</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -10180,7 +10180,7 @@
       </Placemark>
       <Placemark>
         <name>Nepean Blue Mountains</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -14569,7 +14569,7 @@
       </Placemark>
       <Placemark>
         <name>Northern Sydney</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -19435,7 +19435,7 @@
       </Placemark>
       <Placemark>
         <name>South Eastern Sydney</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -24589,7 +24589,7 @@
       </Placemark>
       <Placemark>
         <name>South Western Sydney</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -28179,7 +28179,7 @@
       </Placemark>
       <Placemark>
         <name>Sydney</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -29056,7 +29056,7 @@
       </Placemark>
       <Placemark>
         <name>Western Sydney</name>
-        <styleUrl>#poly-FFD600-1201-61-nodesc</styleUrl>
+        <styleUrl>#poly-FFD600-1201-10-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -30260,7 +30260,7 @@
       <name>Rural and regional NSW local health districts</name>
       <Placemark>
         <name>Far West</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -35274,7 +35274,7 @@
       </Placemark>
       <Placemark>
         <name>Hunter New England</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -42656,7 +42656,7 @@
       </Placemark>
       <Placemark>
         <name>Mid North Coast</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -48333,7 +48333,7 @@
       </Placemark>
       <Placemark>
         <name>Murrumbidgee</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -53347,7 +53347,7 @@
       </Placemark>
       <Placemark>
         <name>Albury Wodonga Health (Network with Victoria)</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -54308,7 +54308,7 @@
       </Placemark>
       <Placemark>
         <name>Northern NSW</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -59666,7 +59666,7 @@
       </Placemark>
       <Placemark>
         <name>Southern NSW</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <MultiGeometry>
           <Polygon>
             <outerBoundaryIs>
@@ -66569,7 +66569,7 @@
       </Placemark>
       <Placemark>
         <name>Western NSW</name>
-        <styleUrl>#poly-FFD600-1101-59-nodesc</styleUrl>
+        <styleUrl>#poly-9C27B0-1101-209-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
