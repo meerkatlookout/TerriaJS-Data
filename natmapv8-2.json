@@ -1,0 +1,75 @@
+{
+  "workbench": [],
+  "catalog": [
+    {
+      "type": "csv",
+      "name": "VAM Vaccinations: Patient postcode",
+      "url": "https://nswhvamuat.service-now.com/api/sn_vaccine_sm/postcode_for_mapping/postcodes",
+      "opacity": 0.8,
+      "showUnmatchedRegionsWarning": false,
+		"styles": [{
+				"id": "Population",
+				"color": {
+					"binMaximums": [100, 500, 1000, 5000, 10000, 20000, 30000, 40000, 50000, 60000, 70000]
+				}
+			}, {
+				"id": "Percentage",
+				"color": {
+					"binMaximums": [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 100],
+					"binColors": ["#00abe6", "#0098d4", "#0080bd", "#006caa", "#005392", "#002664", "#1f215c", "#501e54", "#7f1c4d", "#b11a45", "#d7153a", "#c61131", "#b00d29", "#9b0922", "#8a061c", "#720517", "#420205", "#100002", "#fee0d2", "#fff5f0"]
+				}
+			}, {
+				"id": "Vaccinations",
+				"color": {
+					"binMaximums": [5, 20, 50, 100, 125, 150, 200, 500, 1000, 2000, 3000, 4000, 5000, 10000, 25000, 50000],
+					"binColors": ["#00abe6", "#0098d4", "#0080bd", "#006caa", "#005392", "#002664", "#1f215c", "#501e54", "#7f1c4d", "#b11a45", "#d7153a", "#c61131", "#b00d29", "#9b0922", "#8a061c", "#41030d"]
+				}
+			}
+		],
+      "defaultStyle": {
+        "color": {
+          "binMaximums": [
+            5,
+            20,
+            50,
+            /*75,*/
+            100,
+            125,
+            150,
+            200,
+            500,
+            1000,
+            2000,
+            3000,
+            4000,
+            5000,
+            10000,
+            25000,
+            50000
+          ],
+          "binColors": [
+            "#00abe6", "#0098d4", "#0080bd", "#006caa", "#005392",
+            "#002664", "#1f215c", "#501e54", "#7f1c4d", "#b11a45",
+            "#d7153a", "#c61131", "#b00d29", "#9b0922", "#8a061c",
+			"#41030d"
+            /*"#820419"*/
+          ]/*,
+          "numberOfBins": 18*/
+        }
+      },
+      "id": "3bAqvC",
+      "shareKeys": [
+        "Root Group/VAM Vaccinations: Patient postcode"
+      ]
+    },
+    {
+      "type": "kml",
+      "name": "NSWH LHDs",
+      "url": "https://raw.githubusercontent.com/meerkatlookout/TerriaJS-Data/main/NSWH_LHDs_modified2.kml",
+      "id": "Xdsv86",
+      "shareKeys": [
+        "Root Group/NSWH LHDs"
+      ]
+    }
+  ]
+}
